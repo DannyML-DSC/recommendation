@@ -1,0 +1,48 @@
+user_id,movie,ratings,metascore,item_id
+0,Logan,8.1,77,0
+1,Wonder Woman,7.5,76,0
+2,Dunkirk,7.9,94,1
+3,Star Wars: Episode VIII - The Last Jedi,7.2,85,0
+4,Guardians of the Galaxy Vol. 2,7.7,67,0
+5,Thor: Ragnarok,7.9,74,0
+6,Spider-Man: Homecoming,7.5,73,1
+7,Get Out,7.7,84,0
+8,Blade Runner 2049,8.0,81,2
+9,Baby Driver,7.6,86,0
+10,It,7.4,69,1
+11,Justice League,6.6,45,1
+12,"Three Billboards Outside Ebbing, Missouri",8.2,88,1
+13,The Shape of Water,7.4,87,0
+14,John Wick: Chapter 2,7.5,75,0
+15,Coco,8.4,81,2
+16,Beauty and the Beast,7.2,65,0
+17,Kong: Skull Island,6.7,62,0
+18,Alien: Covenant,6.4,65,0
+19,Jumanji: Welcome to the Jungle,7.0,58,0
+20,Pirates of the Caribbean: Dead Men Tell No Tales,6.6,39,0
+21,Kingsman: The Golden Circle,6.8,44,1
+22,War for the Planet of the Apes,7.5,82,0
+23,The Fate of the Furious,6.7,56,1
+24,Life,6.6,54,0
+25,Ghost in the Shell,6.4,52,0
+26,Murder on the Orient Express,6.5,52,1
+27,The Greatest Showman,7.7,48,0
+28,King Arthur: Legend of the Sword,6.8,41,2
+29,Lady Bird,7.5,94,0
+30,Wind River,7.7,73,1
+31,The Hitman's Bodyguard,6.9,47,0
+32,The Mummy,5.5,34,1
+33,Mother!,6.6,75,1
+34,Bright,6.4,29,0
+35,Atomic Blonde,6.7,63,0
+36,Call Me by Your Name,8.0,93,1
+37,Valerian and the City of a Thousand Planets,6.5,51,0
+38,Baywatch,5.6,37,0
+39,American Made,7.2,65,1
+40,Darkest Hour,7.4,75,1
+41,"I, Tonya",7.5,77,0
+42,Transformers: The Last Knight,5.2,27,0
+43,The Lego Batman Movie,7.3,75,1
+44,The Dark Tower,5.7,34,0
+45,The Disaster Artist,7.4,76,0
+46,Logan Lucky,7.0,78,1
